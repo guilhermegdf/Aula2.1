@@ -1,4 +1,5 @@
 # Aula2.1
 Leonardo Dicaprio
-Johnny Depp
+Kate Beckinsale
 Sophia Myles
+zita gorog
